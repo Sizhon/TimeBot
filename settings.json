@@ -1,0 +1,30 @@
+{
+    "Username": "[REDACTED]",
+    "Week": "Week 5 12/13",
+    "Review Pay Check Week": "Review Paycheck 12/17",
+    "Team": "Team 1",
+    "Employee": "Lien",
+    "LOGINS": {
+        "40001289": "[REDACTED]",
+        "40001290": "[REDACTED]",
+        "40001918": "[REDACTED]",
+        "40001286": "[REDACTED]",
+        "40003515": "[REDACTED]"
+    },
+    "TEAMSHEETS": {
+        "Team 1": "1FuPsEg3P6fimMo8-OwgUs7UsT0GIukj0JT2hGJXqUjw",
+        "Team 2": "1kYlDzum_qN8EtbJcXtvDVqCTCv0zIXjFyzqPbNrk0FM"
+    },
+    "INDIVTAB": {
+        "Simon": "Simon's Sites",
+        "William": "William's Sites",
+        "Lukar": "Lukar's Temp Sites",
+        "Vivi": "Vivian's Site",
+        "Kevin": "Kevin's Sites",
+        "James": "James' Sites",
+        "Justin": "Justin's Sites",
+        "Haniyah": "Haniyah's Sites"
+    },
+    "Profile": "Profile 1",
+    "Chrome Profile Path": "C:\\Users\\[REDACTED]\\AppData\\Local\\Google\\Chrome\\User Data"
+}
